@@ -120,7 +120,7 @@ export default function RootLayout({
               height="30"
               alt="icon of this photo album app"
             />
-            Snow Gallery
+            GalleryPix
             <div className="ml-auto flex items-center space-x-4">
               <Avatar>
                 <AvatarImage
